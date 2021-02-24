@@ -1,3 +1,11 @@
 {
-	"id": "moj test"
+	"test": [
+		{ "id": 1, "value": 2 },
+		{ "id": 2, "value": 3 }
+		]
+	"test2": [
+		{ "id": 10, "value": 20 },
+		{ "id": 20, "value": 30 }
+		]		
+	
 }
